@@ -1,0 +1,13 @@
+---
+layout: post
+title: "[網路] 分享我的電腦設置"
+date: 2019-09-10 09:58:02 +0800
+categories: networking
+---
+
+## Online Services
+
+|Service Name|Service Description|Pricing|
+|--|--|--|
+|[1Password](https://1password.com)|密碼管理服務<br><br>從此只要記住一組密碼，跨網站跨裝置登入。<br>此外有1G空間儲存檔案，需要的時候很好用。|$2.99/mo<br>[Pricing](https://1password.com/teams/pricing/)|
+|[Spotify](https://www.spotify.com)|音樂串流服務|Free<br>[Pricing](https://www.spotify.com/premium/)|
